@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Modelado de Datos", "Modelado de Datos\Modelado de Datos.dtproj", "{3E40169F-DAF7-4947-AC0E-5C83A4F25BC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E40169F-DAF7-4947-AC0E-5C83A4F25BC8}.Development|Default.ActiveCfg = Development
+		{3E40169F-DAF7-4947-AC0E-5C83A4F25BC8}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDC69875-2615-4A9A-8985-BA597C5CFCEC}
+	EndGlobalSection
+EndGlobal

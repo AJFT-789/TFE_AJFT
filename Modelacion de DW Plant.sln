@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Modelacion de DW Plant", "Modelacion de DW Plant\Modelacion de DW Plant.dtproj", "{DAA0F011-9FAF-4392-A22F-9B70CD0E331E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAA0F011-9FAF-4392-A22F-9B70CD0E331E}.Development|Default.ActiveCfg = Development
+		{DAA0F011-9FAF-4392-A22F-9B70CD0E331E}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9271B06-FE8B-4446-9ECD-51A6AE97A34E}
+	EndGlobalSection
+EndGlobal
